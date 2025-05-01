@@ -1,4 +1,5 @@
 # LangChain.dart
+![image](https://github.com/user-attachments/assets/91994a3a-4d93-4572-be00-f3f28cac5482)
 
 LangChain.dart는 Harrison Chase가 만든 인기 있는 LangChain Python 프레임워크의 비공식 Dart 포트입니다.
 
